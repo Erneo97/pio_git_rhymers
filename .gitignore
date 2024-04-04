@@ -1,0 +1,15 @@
+/target/
+
+# Pliki tymczasowe
+*.tmp
+*.bin
+*.idea
+
+# Katalogi środowiska
+venv/
+node_modules/
+
+# Pliki kompilowane
+*.pyc
+*.class
+*.o
